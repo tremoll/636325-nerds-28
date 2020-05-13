@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Тимур Шиков](https://up.htmlacademy.ru/htmlcss/28/user/636325).
-* Наставник: [Анастасия Полозова](https://htmlacademy.ru/profile/id258631)..
+* Наставник: [Анастасия # Полозова](https://htmlacademy.ru/profile/id258631).
 
 ---
 
