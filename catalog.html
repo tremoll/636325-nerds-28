@@ -190,18 +190,46 @@
           <p>тел. +7 (812) 275-75-75</p>
           <button class="btn">Напишите нам</button>
         </div>
+        <div class="contact-us-hidden">
+        <form class="contact-form" action="https://echo.htmlacademy.ru" method="POST">
+          <h2 class="contact-form-header">Напишите нам</h2>
+          <div class="contact-form-row">
+            <div class="contact-form-column">
+              <label class="form-label">
+                Ваше имя:
+              </label>
+              <input class="form-text" type="text" name="name" placeholder="Имя Фамилия">
+            </div>
+            <div class="contact-form-column">
+              <label class="form-label">
+                Ваш e-mail:
+              </label>
+              <input class="form-text" type="email" name="email" placeholder="email@example.com">
+            </div>
+          </div>
+          <div class="contact-form-row">
+            <label class="form-label">
+                Текст письма:
+              </label>
+            <textarea class="form-text"  name="message" placeholder="В свободной форме"></textarea>
+          </div>
+          <button class="button" type="submit">Отправить</button>
+
+          <button class="form-close" aria-label="Закрыть" type="button"></button>
+        </form>
+      </div>
     </div>
     </section>
   	<footer>
   		<div class="social">
         <a class="icon" href="#">
-          <span class="vk"></span>
+          <span class="vk">vk</span>
         </a>
         <a class="icon" href="#">
-          <span class="fb"></span>
+          <span class="fb">fb</span>
         </a>
         <a class="icon" href="#">
-          <span class="in"></span>
+          <span class="in">in</span>
         </a>
       </div>
       <div class="footer-info">
